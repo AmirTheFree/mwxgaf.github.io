@@ -1,0 +1,38 @@
+/* In the name of Allah */
+
+body {
+    background-color: black;
+}
+
+.text-black {
+    color: black !important;
+    font-weight: 600 !important;
+}
+
+.nolink {
+    text-decoration: none;
+}
+
+.icon {
+    transition: all .5s;
+    max-width: 50px;
+    max-height: 50px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.icon:hover {
+    transform: rotateZ(360deg);
+}
+
+@media only screen and (max-width: 767px) {
+    #name {
+        margin-top: 10px !important;
+    }
+}
+
+@media only screen and (max-width: 389px) {
+    h1 {
+        font-size: 32px !important;
+    }
+}
