@@ -1,5 +1,3 @@
-In the name of Allah
+# OpenMindAmir.github.io
 
-# mwxgaf.github.io
-
-This repository includes files of [mwxgaf.github.io](https://mwxgaf.github.io)
+This repository includes files of [OpenMindAmir.github.io](https://OpenMindAmir.github.io)
